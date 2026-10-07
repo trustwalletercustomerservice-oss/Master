@@ -1,0 +1,15 @@
+{
+  "config": {
+    "base_repo_name": "Z-Tech",
+    "total_backtrack_target": 1000000000
+  },
+  "tracking": {
+    "current_repo_id": 1,
+    "current_folder_id": 1,
+    "current_file_id": 1,
+    "steps_subtracted": 0,
+    "last_x": "60881916827484388944817259687069385650053251820776644587434833606699426413563",
+    "last_y": "33115487590504923981027401549235753433096520501207781675465129319492778651496"
+  },
+  "complete": false
+}
