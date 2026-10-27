@@ -1,9 +1,9 @@
 {
   "tracking": {
     "current_folder_id": 5,
-    "current_file_id": 7,
-    "steps_subtracted": 25000000,
-    "last_x": "0x4856b309f89756d05cce78ceec3a996f9e0080f7bb794b1db7c072d28ce8453a",
-    "last_y": "0x1328dd8bee522fc150041af3a22612c36e5518d9ae5f2b78c8c614e002dc5e9e"
+    "current_file_id": 16,
+    "steps_subtracted": 26250000,
+    "last_x": "0x110e02354b04a8595d8ffc621d04dcd7e57161fe439090a00667ebbf62bcb160",
+    "last_y": "0x4251c2d036ef9b16e0cc46d80bb84b7c7cefa89f747b136d2f3a1f4ea1258308"
   }
 }
